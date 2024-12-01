@@ -1,7 +1,7 @@
-#The project includes three process
-#1. Batch request GUI
-#2. Data analysis and visulization
-#3. Theoretical Model
+# The project includes three process
+# 1. Batch request GUI
+# 2. Data analysis and visulization
+# 3. Theoretical Model
 
 
 
