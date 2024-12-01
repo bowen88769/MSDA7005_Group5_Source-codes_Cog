@@ -1,12 +1,12 @@
 The project includes three process
-1. AI Chatbot with Batch Processing
+1. Batch request GUI
 2. Data analysis and visulization
 3. Theoretical Model
 
 
 
 
-# AI Chatbot with Batch Processing
+# Batch request GUI
 
 A feature-rich Python-based chatbot application that interfaces with various large language models. The application includes a user-friendly GUI, supports batch requests, and provides extensive configuration options.
 
